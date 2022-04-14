@@ -32,7 +32,7 @@ footer a{
 .panel {
     position: relative;
     height: 75vh;
-    curser: pointer;
+    cursor: pointer;
     flex: .5;
     margin: 8px;
     padding: 8px;
